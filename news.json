@@ -1,8 +1,96 @@
-{"date":"2026-11-06","highlight":"美股晶片類股單日蒸發約 1.45 兆美元，費半重挫逾 12%，週五盤前出現反彈。","items":[
-{"topic":"AI / 大模型","title":"OpenAI 推出 GPT-6 Cyber，僅限核准客戶使用並列為最高風險等級","summary":"GPT-6 Cyber 先開放給 Daybreak Red 核准客戶，透過 API 與 Codex 使用，OpenAI 將其網安風險評為 Critical。報導稱它協助發現 81 個 Firefox 高風險漏洞，API 價格高於 Anthropic 與 Google 的同類模型。","sources":[{"name":"SiliconANGLE","url":"https://siliconangle.com/2026/11/05/openai-launches-gpt-6-cyber-a-gpt-6-astra-model-built-to-keep-vulnerability-research-in-scope/"},{"name":"VentureBeat","url":"https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google"}]},
-{"topic":"半導體 / 硬體","title":"晶片股 11 月 5 日崩跌：費半重挫逾 12%，市值蒸發約 1.45 兆美元，週五盤前反彈","summary":"市場擔心期中選舉後 AI 與資料中心監管趨嚴，NVIDIA 單日市值蒸發約 4,470 億美元，台積電 ADR 重挫約 10%。週五盤前 NVIDIA、台積電 ADR 回升，各報導數字略有出入。","sources":[{"name":"鉅亨網","url":"https://news.cnyes.com/news/id/6648369"},{"name":"24/7 Wall St.","url":"https://247wallst.com/investing/2026/11/06/asias-chip-stocks-crashed-overnight-with-sk-hynix-down-11-7-and-taiwan-off-more-than-8-now-nasdaq-futures-are-pointing-higher/"}]},
-{"topic":"半導體 / 硬體","title":"Nvidia、AMD、Broadcom 尋找台積電以外的先進封裝供應商","summary":"AI 晶片需求持續超過封裝產能，據 Reuters 報導，Nvidia 提供數十億美元資金協助矽品擴充 CoWoS 產能，最快 2028 年投產。","sources":[{"name":"YourNews（引述 Reuters）","url":"https://yournews.com/2026/11/06/7255438/ai-chip-packaging-race-intensifies-as-nvidia-amd-and-broadcom/"}]},
-{"topic":"半導體 / 硬體","title":"Qualcomm 財測不如預期，記憶體短缺拖累手機晶片，Arm 同步走弱","summary":"Qualcomm 財報優於預期但財測偏弱，手機晶片營收年減 26%，股價下跌，並成為選後晶片賣壓的領跌股之一。Arm 也受記憶體荒影響。","sources":[{"name":"CNBC","url":"https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"},{"name":"Seoul Economic Daily","url":"https://en.sedaily.com/international/2026/11/05/qualcomm-arm-hit-by-memory-crunch-as-ai-push-falls-short"}]},
-{"topic":"半導體 / 硬體","title":"報導：輝達擬將舊電信機房改建為 AI 資料中心","summary":"據報導，Nvidia 計畫從 2027 年第 1 季起改裝部分 Brightspeed 建築，裝設 Vera Rubin 伺服器機櫃。","sources":[{"name":"經濟日報","url":"https://money.udn.com/money/story/5599/9861180"}]},
-{"topic":"大型科技公司","title":"Google 為 Anthropic 約 190 億美元的肯塔基資料中心租約提供信用擔保","summary":"Google 於 11 月 4 日同意支持 TeraWulf 子公司向 Anthropic 出租的資料中心租金；若 Anthropic 違約，Google 可接手租約或取得專案子公司股權。租期與容量數字為報導所稱，尚未由原始文件證實。","sources":[{"name":"CoinDesk","url":"https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults"},{"name":"DCD","url":"https://www.datacenterdynamics.com/en/news/anthropic-signs-19bn-20-year-lease-for-kentucky-data-center-with-terawulf/"}]}
-]}
+{
+ "date": "2026-11-07",
+ "highlight": "The Information 報導：台積電應 NVIDIA 要求，評估跨足 3D DRAM 先進記憶體製造。",
+ "items": [
+  {
+   "topic": "AI / 大模型",
+   "title": "Anthropic 推出 Claude 個人理財功能，可連結銀行帳戶分析支出",
+   "summary": "美國付費用戶可透過 Plaid 連結銀行與信用卡帳戶，詢問 Claude 分析消費。Anthropic 表示該功能不能轉帳或投資，也不提供投資建議，目前為 beta。",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    },
+    {
+     "name": "Benzinga",
+     "url": "https://www.benzinga.com/markets/tech/26/11/62976030/anthropics-claude-can-now-link-bank-accounts-and-analyze-transactions-but-wont-offer-investment-advice"
+    }
+   ]
+  },
+  {
+   "topic": "AI / 大模型",
+   "title": "蘋果在 iOS 27.3 開發者 Beta 開放中國版 Apple Intelligence，整合阿里通義千問",
+   "summary": "中國版 Apple Intelligence 開始測試，Siri、寫作工具等功能接入阿里 Qwen，預計 12 月隨 iOS 27.3 正式版推送。使用前會詢問用戶是否同意，阿里表示回應不會用於訓練。",
+   "sources": [
+    {
+     "name": "Digitimes",
+     "url": "https://www.digitimes.com/news/a20261105PD217/apple-siri-apple-intelligence-testing-alibaba.html"
+    },
+    {
+     "name": "China Daily HK",
+     "url": "https://www.chinadailyhk.com/hk/article/642068"
+    }
+   ]
+  },
+  {
+   "topic": "半導體 / 硬體",
+   "title": "報導：台積電應 NVIDIA 要求，評估跨足 3D DRAM 先進記憶體製造",
+   "summary": "The Information 報導，台積電正評估新建廠或收購既有廠房改造來生產先進記憶體，計畫仍屬初步，尚未正式確認。消息推升台積電股價。",
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/tsmc-rises-on-report-of-potential-push-into-advanced-memory-for-nvidia-5008637"
+    },
+    {
+     "name": "Crypto Briefing（引述 The Information）",
+     "url": "https://cryptobriefing.com/tsmc-considers-advanced-memory-chips-3d-dram/"
+    }
+   ]
+  },
+  {
+   "topic": "半導體 / 硬體",
+   "title": "台灣收緊放空規定：11 月 9 日起單日放空上限降至 30 日均量 3%",
+   "summary": "台股重挫後，主管機關宣布放空上限由 30% 降至 3%，最低保證金由 90% 提高到 130%，財政部也表示必要時動用 5,000 億元新台幣穩定基金。",
+   "sources": [
+    {
+     "name": "Benzinga",
+     "url": "https://www.benzinga.com/markets/tech/26/11/62974369/tsmc-surges-7-as-taiwan-restricts-short-selling-to-halt-brutal-semiconductor-crash"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://mlq.ai/news/chip-stocks-win-back-part-of-thursdays-12-plunge-as-taiwan-clamps-down-on-short-sellers/"
+    }
+   ]
+  },
+  {
+   "topic": "半導體 / 硬體",
+   "title": "美股晶片股週五強彈：費半盤中漲逾 5%，台積電 ADR 漲近 8%",
+   "summary": "繼週四費半重挫逾 12% 後，AI 硬體股週五反彈，NVIDIA、Micron 也走高。各媒體引用的是盤中數字，漲幅略有出入。",
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "url": "https://finance.biggo.com/news/59eb0bd4-97b3-48b3-92d6-904689ff9d8a"
+    },
+    {
+     "name": "TipRanks",
+     "url": "https://www.tipranks.com/news/semiconductor-stocks-tsmc-tsm-nvidia-nvda-and-amd-rebound-after-a-midterm-drop"
+    }
+   ]
+  },
+  {
+   "topic": "大型科技公司",
+   "title": "Alphabet 13F 揭露第三季新增約 5.48 億美元 Qualcomm 持股",
+   "summary": "Alphabet 最新 13F 顯示持有約 298 萬股 Qualcomm，Qualcomm 股價隨之上漲。有報導指這些股份透過旗下 GV 持有，可能與 Qualcomm 收購 Modular 有關，並非單純新增現金投資。",
+   "sources": [
+    {
+     "name": "TipRanks",
+     "url": "https://www.tipranks.com/news/alphabet-has-built-a-stake-worth-548-million-in-qualcomm-stock-qcom-to-back-ai-data-center-push"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://mlq.ai/news/alphabet-discloses-new-548-million-qualcomm-stake-in-third-quarter-13f/"
+    }
+   ]
+  }
+ ]
+}
