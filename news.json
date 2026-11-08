@@ -1,94 +1,109 @@
 {
- "date": "2026-11-07",
- "highlight": "The Information 報導：台積電應 NVIDIA 要求，評估跨足 3D DRAM 先進記憶體製造。",
+ "date": "2026-11-08",
+ "highlight": "OpenAI 首輪募得 110 億美元、估值 12.5 兆美元，低於原定目標，AI 資金熱度降溫。",
  "items": [
   {
    "topic": "AI / 大模型",
-   "title": "Anthropic 推出 Claude 個人理財功能，可連結銀行帳戶分析支出",
-   "summary": "美國付費用戶可透過 Plaid 連結銀行與信用卡帳戶，詢問 Claude 分析消費。Anthropic 表示該功能不能轉帳或投資，也不提供投資建議，目前為 beta。",
+   "title": "OpenAI 完成首輪 110 億美元募資，估值 12.5 兆美元低於原先目標",
+   "summary": "據 Reuters 與 Bloomberg 引述消息人士，此為新一輪募資的首次交割，SoftBank、MGX 參與；原本目標最高 300 億美元、估值約 1.4 兆至 1.5 兆美元。後續仍可能再有資金進入。",
    "sources": [
     {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+     "name": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
     },
     {
-     "name": "Benzinga",
-     "url": "https://www.benzinga.com/markets/tech/26/11/62976030/anthropics-claude-can-now-link-bank-accounts-and-analyze-transactions-but-wont-offer-investment-advice"
+     "name": "MLQ.ai",
+     "url": "https://mlq.ai/news/openai-raises-11-billion-at-a-125-trillion-valuation-in-first-close-of-new-round/"
     }
    ]
   },
   {
    "topic": "AI / 大模型",
-   "title": "蘋果在 iOS 27.3 開發者 Beta 開放中國版 Apple Intelligence，整合阿里通義千問",
-   "summary": "中國版 Apple Intelligence 開始測試，Siri、寫作工具等功能接入阿里 Qwen，預計 12 月隨 iOS 27.3 正式版推送。使用前會詢問用戶是否同意，阿里表示回應不會用於訓練。",
+   "title": "Anthropic IPO 估值預期下修，期中選舉後資料中心反彈成新變數",
+   "summary": "Bloomberg 報導買家討論的估值落在 1.2 兆至 1.3 兆美元，低於先前說法；CNBC 指出期中選舉中資料中心相關公投多遭否決。IPO 時程尚未確定。",
    "sources": [
     {
-     "name": "Digitimes",
-     "url": "https://www.digitimes.com/news/a20261105PD217/apple-siri-apple-intelligence-testing-alibaba.html"
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
     },
     {
-     "name": "China Daily HK",
-     "url": "https://www.chinadailyhk.com/hk/article/642068"
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+    }
+   ]
+  },
+  {
+   "topic": "AI / 大模型",
+   "title": "Meta 為 Muse 與 Meta AI 推出 Active Memory 與 Active Focus",
+   "summary": "Meta 表示新模型由 Muse Wonder 訓練，較不易遺忘關鍵資訊（宣稱減少 2.4 倍）、自我修正任務表現提升 67%，數據為 Meta 自行公布。",
+   "sources": [
+    {
+     "name": "Technobezz",
+     "url": "https://www.technobezz.com/news/meta-muse-meta-ai-memory-focus"
+    },
+    {
+     "name": "NewsBytes",
+     "url": "https://www.newsbytesapp.com/news/science/meta-ai-muse-get-memory-and-focus-upgrade/story"
     }
    ]
   },
   {
    "topic": "半導體 / 硬體",
-   "title": "報導：台積電應 NVIDIA 要求，評估跨足 3D DRAM 先進記憶體製造",
-   "summary": "The Information 報導，台積電正評估新建廠或收購既有廠房改造來生產先進記憶體，計畫仍屬初步，尚未正式確認。消息推升台積電股價。",
+   "title": "報導：NVIDIA 出資協助日月光旗下矽品擴充 CoWoS 先進封裝產能",
+   "summary": "Reuters 引述業界主管報導，資金用於新廠房與設備，金額僅稱「數十億美元」，ASE 不評論客戶傳聞。先進封裝正成為 AI 晶片供應的瓶頸。",
    "sources": [
     {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/stock-market-news/tsmc-rises-on-report-of-potential-push-into-advanced-memory-for-nvidia-5008637"
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-turns-chip-packaging-055149159.html"
     },
     {
-     "name": "Crypto Briefing（引述 The Information）",
-     "url": "https://cryptobriefing.com/tsmc-considers-advanced-memory-chips-3d-dram/"
+     "name": "Igor's Lab",
+     "url": "https://www.igorslab.de/en/nvidia-billions-additional-cowos-capacity-spil-key-partner-ai-accelerators/"
     }
    ]
   },
   {
    "topic": "半導體 / 硬體",
-   "title": "台灣收緊放空規定：11 月 9 日起單日放空上限降至 30 日均量 3%",
-   "summary": "台股重挫後，主管機關宣布放空上限由 30% 降至 3%，最低保證金由 90% 提高到 130%，財政部也表示必要時動用 5,000 億元新台幣穩定基金。",
+   "title": "Apple 發表首款觸控螢幕 MacBook Pro 與 OLED iPad mini",
+   "summary": "新品包括搭載 M5 Pro／M5 Max 的 14、16 吋 MacBook Pro，以及採用 A20 Pro 的 OLED iPad mini；macOS 27 將不再支援僅限 Intel 的 App。",
    "sources": [
     {
-     "name": "Benzinga",
-     "url": "https://www.benzinga.com/markets/tech/26/11/62974369/tsmc-surges-7-as-taiwan-restricts-short-selling-to-halt-brutal-semiconductor-crash"
+     "name": "MacRumors",
+     "url": "https://macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow"
     },
     {
-     "name": "MLQ.ai",
-     "url": "https://mlq.ai/news/chip-stocks-win-back-part-of-thursdays-12-plunge-as-taiwan-clamps-down-on-short-sellers/"
-    }
-   ]
-  },
-  {
-   "topic": "半導體 / 硬體",
-   "title": "美股晶片股週五強彈：費半盤中漲逾 5%，台積電 ADR 漲近 8%",
-   "summary": "繼週四費半重挫逾 12% 後，AI 硬體股週五反彈，NVIDIA、Micron 也走高。各媒體引用的是盤中數字，漲幅略有出入。",
-   "sources": [
-    {
-     "name": "BigGo Finance",
-     "url": "https://finance.biggo.com/news/59eb0bd4-97b3-48b3-92d6-904689ff9d8a"
-    },
-    {
-     "name": "TipRanks",
-     "url": "https://www.tipranks.com/news/semiconductor-stocks-tsmc-tsm-nvidia-nvda-and-amd-rebound-after-a-midterm-drop"
+     "name": "MacObserver",
+     "url": "https://macobserver.com/tips/round-ups/apple-launching-5-new-products-on-november-6-heres-whats-coming"
     }
    ]
   },
   {
    "topic": "大型科技公司",
-   "title": "Alphabet 13F 揭露第三季新增約 5.48 億美元 Qualcomm 持股",
-   "summary": "Alphabet 最新 13F 顯示持有約 298 萬股 Qualcomm，Qualcomm 股價隨之上漲。有報導指這些股份透過旗下 GV 持有，可能與 Qualcomm 收購 Modular 有關，並非單純新增現金投資。",
+   "title": "Microsoft 據報縮減 neocloud 合作夥伴，轉向優先使用自家資料中心",
+   "summary": "CNBC 引述知情人士，Microsoft 將集中與少數關鍵供應商合作，尚未公布具體名單；微軟發言人稱新協議步調反映當前需求。",
    "sources": [
     {
-     "name": "TipRanks",
-     "url": "https://www.tipranks.com/news/alphabet-has-built-a-stake-worth-548-million-in-qualcomm-stock-qcom-to-back-ai-data-center-push"
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html"
     },
     {
-     "name": "MLQ.ai",
-     "url": "https://mlq.ai/news/alphabet-discloses-new-548-million-qualcomm-stake-in-third-quarter-13f/"
+     "name": "Benzinga",
+     "url": "https://www.benzinga.com/markets/tech/26/11/63017347/microsoft-cuts-neocloud-partners-ai-data-center-expansion"
+    }
+   ]
+  },
+  {
+   "topic": "大型科技公司",
+   "title": "Google 宣布在懷俄明州投資 170 億美元興建首座資料中心",
+   "summary": "園區位於 Laramie County，預計 2031 年全面完工，並規劃 702MW 燃氣燃料電池搭配碳捕捉；Google 表示將負擔全部用電成本。另據 Bloomberg，Google 接手了 Crusoe 原先規劃的該地點。",
+   "sources": [
+    {
+     "name": "Google Blog",
+     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched"
     }
    ]
   }
