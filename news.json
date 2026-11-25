@@ -1,8 +1,111 @@
-{"date": "2026-11-24", "highlight": "輝達董事會恢復黃仁勳的 CEO 職務，帶動台積電漲停、台股大漲，但調查尚未結束。", "items": [
-{"topic": "AI / 大模型", "title": "Axios：Anthropic、OpenAI 內部有部分員工認為未發布的模型太危險、不宜釋出", "summary": "Axios 引述二十多位知情人士指出，兩家公司內部部分員工擔心最先進的模型尚無可靠的控制方法。OpenAI 表示已採行新的安全要求，Anthropic 則說模型留在內部不代表就安全。", "sources": [{"name": "Crypto Briefing", "url": "https://cryptobriefing.com/anthropic-openai-staff-warn-unreleased-models-unsafe/"}, {"name": "Political Wire", "url": "https://politicalwire.com/2026/11/24/employees-fear-ai-models-are-too-unsafe-to-release/"}]},
-{"topic": "AI / 大模型", "title": "智譜傳出推出 GLM-5.4，中國電信開源星辰 4.1 大模型", "summary": "據新浪 AI 熱點小時報，GLM-5.4 採 Loop Transformer 架構並新增視覺能力；星辰 4.1 為 2850 億參數 MoE 模型、支援百萬 token 上下文。內容出自彙整報導，尚待官方公告佐證。", "sources": [{"name": "新浪新聞", "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vynv.html"}]},
-{"topic": "半導體 / 硬體", "title": "黃仁勳回歸輝達，台積電漲停收 2,230 元、市值一日增加約 1,580 億美元", "summary": "台積電 11 月 24 日大漲 200 元、漲幅 9.85%，台股同步跳空大漲。報導指輝達也曾洽詢台積電代工 3D 記憶體晶片，但尚不確定是否成案。", "sources": [{"name": "經濟日報", "url": "https://money.udn.com/money/story/5607/9897847"}, {"name": "Investing.com", "url": "https://hk.investing.com/news/stock-market-news/article-93CH-1773534"}]},
-{"topic": "半導體 / 硬體", "title": "FT：戴爾、HPE、聯想、美超微對已簽約的 AI 伺服器訂單加價 25% 至 45%", "summary": "報導稱廠商將原因歸於記憶體成本上漲，XTX Markets 也因加價要求入禀訴訟戴爾。目前僅 FT 單一來源，四家公司未公開證實。", "sources": [{"name": "The Next Web", "url": "https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft"}, {"name": "Startup Fortune", "url": "https://startupfortune.com/dell-hpe-lenovo-and-supermicro-raise-ai-server-prices-up-to-45-after-signing/"}]},
-{"topic": "大型科技公司", "title": "輝達董事會一致同意黃仁勳復任總裁兼 CEO，隔日股價回跌約 5%", "summary": "黃仁勳 11 月 12 日請辭後，董事會 11 月 23 日讓他立即復職，Colette Kress 回任財務長。獨立委員會的調查仍會繼續，輝達股價週一暴漲後週二回落約 5%。", "sources": [{"name": "Axios", "url": "https://www.axios.com/2026/11/23/nvidia-board-jensen-huang-as-ceo"}, {"name": "輝達官方新聞稿", "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"}]},
-{"topic": "大型科技公司", "title": "科技股跟漲，Meta 週一收 597.60 美元、單日漲近 7%", "summary": "Seeking Alpha 指出，這波漲勢源於黃仁勳回任輝達的消息帶動整體科技股反彈。", "sources": [{"name": "Seeking Alpha", "url": "https://seekingalpha.com/news/4675931-tech-surge-sends-meta-platforms-higher-by-7"}]}
-]}
+{
+"date": "2026-11-25",
+"highlight": "費半單日重挫 7.88%，黃仁勳回任行情僅撐一天，美光、輝達領跌，Anthropic 也跌破發行價。",
+"items": [
+{
+"topic": "AI / 大模型",
+"title": "Anthropic 上市第四個交易日跌破 83 美元發行價，盤中最低約 76 美元",
+"summary": "11 月 24 日收盤 81.91 美元、跌 6.5%，Yahoo Finance 歸因於科技股整體回檔。Amodei 兄妹在 IPO 中各出售約 2.8 億美元股票，分析師評等仍多偏正面。",
+"sources": [
+{
+"name": "CNBC",
+"url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+},
+{
+"name": "Forbes",
+"url": "https://www.forbes.com/sites/zacharyfolk/2026/11/24/anthropic-stock-falls-below-83-per-share-ipo-price/"
+}
+]
+},
+{
+"topic": "AI / 大模型",
+"title": "Anthropic 開放 Enterprise Frontier Safeguards 公開測試版，企業可自管監控資料",
+"summary": "新功能提供自動濫用監控，資料存放在客戶自己的雲端帳號，Anthropic 表示不保留也不用於訓練。11 月 23 日推出，涵蓋 Claude Platform、Bedrock 等，目前不另收費。",
+"sources": [
+{
+"name": "ITdaily",
+"url": "https://itdaily.com/news/security/claude-enterprise-frontier-safeguards-beta/"
+},
+{
+"name": "Crypto Briefing",
+"url": "https://cryptobriefing.com/anthropic-enterprise-frontier-safeguards-public-beta/"
+}
+]
+},
+{
+"topic": "半導體 / 硬體",
+"title": "費半單日重挫 7.88%，輝達跌 5.86%、台積電 ADR 跌 3.96%",
+"summary": "黃仁勳回任帶動的反彈僅維持一天，加上川普政府傳擬提高關稅，費半收 8,832.50 點。輝達收 155.38 美元，台積電 ADR 收 349.2 美元。",
+"sources": [
+{
+"name": "中央社",
+"url": "https://www.cna.com.tw/news/afe/202611250020.aspx"
+},
+{
+"name": "鉅亨網",
+"url": "https://news.cnyes.com/news/id/6671173"
+}
+]
+},
+{
+"topic": "半導體 / 硬體",
+"title": "美光遭法巴降評至中立、目標價砍至 775 美元，股價單日重挫約 11%",
+"summary": "法巴認為記憶體產能擴張可能最快在 2027 年中超過需求，目標價由 1,700 美元下修。美光 11 月 24 日收 629.79 美元，SanDisk、SK 海力士同步大跌。",
+"sources": [
+{
+"name": "FX Leaders",
+"url": "https://www.fxleaders.com/news/2026/11/24/mu-stock-heads-to-600-support-again-as-bnp-paribas-slashes-price-target-with-micron-technology-stock-downgraded-from-outperform-to-neutral/"
+},
+{
+"name": "Crypto Briefing",
+"url": "https://cryptobriefing.com/micron-stock-drops-bnp-paribas-downgrade/"
+}
+]
+},
+{
+"topic": "半導體 / 硬體",
+"title": "台股前一日創史上最大漲點後，25 日重挫逾 1,900 點",
+"summary": "受費半大跌拖累，台股 25 日早盤一度狂瀉逾 3,000 點，收盤回吐 1,927 點，跌停家數達 46 家。前一日台股才狂飆 3,310 點。",
+"sources": [
+{
+"name": "Yahoo 股市",
+"url": "https://tw.stock.yahoo.com/news/%E6%B0%B8%E8%B1%90%E6%9C%9F%E8%B2%A8-%E8%B2%BB%E5%8D%8A%E9%87%8D%E6%8C%AB%E8%BF%918-%E5%8F%B0%E8%82%A1%E5%9B%9E%E5%90%901-927%E9%BB%9E-%E8%B7%8C%E5%81%9C46%E5%AE%B6-081810383.html"
+},
+{
+"name": "中時新聞網",
+"url": "https://www.chinatimes.com/realtimenews/20261125002225-260410"
+}
+]
+},
+{
+"topic": "大型科技公司",
+"title": "Meta 的 Muse AI 代理人 11 月 23 日在英國上線，與多家零售商合作",
+"summary": "英國成年用戶可在 iOS、Android 與 WhatsApp 使用，合作夥伴包括 Marks & Spencer、Sainsbury's、Currys 等，購買需使用者自行核准。夥伴名單各報導略有出入。",
+"sources": [
+{
+"name": "Neowin",
+"url": "https://www.neowin.net/news/metas-viral-ai-agent-muse-is-now-available-to-users-in-the-uk/"
+},
+{
+"name": "Retail Insight Network",
+"url": "https://www.retail-insight-network.com/news/meta-muse-ai-agent-uk-retail-partners/"
+}
+]
+},
+{
+"topic": "大型科技公司",
+"title": "報導：Meta 與 Amazon 洽談解除對 Muse 購物代理人的封鎖",
+"summary": "Amazon 封鎖 Muse 已約兩個月，談判重點在搜尋結果與廣告，Amazon 擔心代理人繞過站內廣告。任何協議都需雙方 CEO 核准，談判仍在變動。",
+"sources": [
+{
+"name": "Yahoo Finance",
+"url": "https://finance.yahoo.com/media-advertising/articles/amazon-meta-reportedly-discuss-restoring-115619335.html"
+},
+{
+"name": "El Fondo",
+"url": "https://www.el-fondo.com/en/news/meta-negotiates-with-amazon-to-connect-its-muse-ai-bot"
+}
+]
+}
+]
+}
